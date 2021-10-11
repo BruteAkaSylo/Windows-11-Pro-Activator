@@ -10,3 +10,7 @@ Or run these 3 commands seperately in Command Prompt AS ADMIN!!!
 3. "slmgr /ato"
 
 Congrats! Your windows 11 is now activated!
+
+<p align="center">
+  <img src="./img/Win11Activated.png" alt="Size Limit CLI" width="738">
+</p>

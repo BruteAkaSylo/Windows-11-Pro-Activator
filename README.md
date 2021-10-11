@@ -11,6 +11,8 @@ Or run these 3 commands seperately in Command Prompt AS ADMIN!!!
 
 Congrats! Your windows 11 is now activated!
 
+[Note: i have a modifeid version of Windows 11 (Ghost Spectre) which is already pre activated so the message can be different than mine.]
+
 <p align="center">
   <img src="./img/Win11Activated.png" alt="Size Limit CLI" width="738">
 </p>

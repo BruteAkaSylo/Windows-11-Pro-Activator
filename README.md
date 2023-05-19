@@ -23,6 +23,6 @@ slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX && slmgr /skms kms8.msguides.com && slm
 
 
 
-> NOTE: I have a modifeid version of Windows 11 (Superlite) [(Ghost Spectre)](https://www.youtube.com/watch?v=nJ418uicpk8) which is already pre-activated, Debloated and has bypasses to UEFI and TPM.
+> NOTE: I have a modified version of Windows 11 (Superlite) [(Ghost Spectre)](https://www.youtube.com/watch?v=nJ418uicpk8) which is already pre-activated, Debloated and has bypasses to UEFI and TPM.
 
 ![](https://cdn.has-cool.pics/9aTjPXz2aWTPz3xT0qhc1gP0fo.png)
